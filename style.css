@@ -1,0 +1,25 @@
+body {
+  background-color: lightblue;
+}
+
+.cabeceras{
+  color: white;
+  margin-left: 30px;
+  margin-right: 250px;
+  border-style: double;
+  border-color: orange;
+}
+
+.parrafos{
+  color: white;
+  margin-left: 30px;
+  margin-right: 60px;
+  background-color: mediumseagreen;
+  border-style: groove;
+  border-color: darkturquoise;
+}
+
+.foto{
+  float: right;
+  margin-right: 60px;
+}
